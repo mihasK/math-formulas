@@ -2,4 +2,4 @@
 Just testing: $\lambda{}$.
 
 
-|S|^{1/2}\approx w^{n/3}
+$|S|^{1/2}\approx w^{n/3}$
